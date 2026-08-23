@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azoz778.github.io/fal-guide/sitemap.xml
