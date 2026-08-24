@@ -1,0 +1,51 @@
+# دليل اجتياز اختبار فال — FAL Real Estate Exam Guide (Saudi Arabia)
+
+> Independent Arabic-language study resource for Saudi Arabia's FAL (فال) real
+> estate brokerage and marketing licensing exam, written by a REGA-licensed
+> broker who passed the exam in August 2026. Includes a free interactive
+> practice exam, a study guide, and topic summaries.
+
+Language: Arabic (ar-SA). Audience: real estate practitioners in Saudi Arabia
+preparing for the FAL qualification assessment.
+
+Independence notice: This site is NOT affiliated with, endorsed by, or
+representing the Real Estate General Authority (الهيئة العامة للعقار / REGA)
+or the Saudi Real Estate Institute (المعهد العقاري السعودي / SREI). All
+practice questions are original, written for training purposes from public
+knowledge of the Real Estate Brokerage Law (Royal Decree M/130) and its
+implementing regulations. They are not actual exam questions and passing is
+not guaranteed.
+
+## Key facts
+- The FAL licence is required to practise real estate brokerage and marketing
+  in Saudi Arabia.
+- Qualification runs through accredited training programmes, each concluding
+  in an electronic assessment.
+- The documented pass mark used in the qualification assessments is 60%.
+- The heaviest exam topic is the Real Estate Brokerage Law (Royal Decree
+  M/130) and its implementing regulations, followed by the brokerage contract
+  and commission (السعي), then real estate advertising and its licensing.
+
+## Pages
+- [Free interactive practice exam](https://azoz778.github.io/fal-guide/quiz/): 20 original
+  multiple-choice questions, instant scoring against the 60% pass mark, and an
+  explanation of the correct answer for every question. No signup or email.
+- [Main study guide](https://azoz778.github.io/fal-guide/): exam topics and their
+  relative weight, common traps, five practical tips, and a one-day study plan.
+- [Practice question models](https://azoz778.github.io/fal-guide/questions/): worked
+  example questions with reasoning on how distractor options are constructed.
+- [Brokerage Law M/130 summary](https://azoz778.github.io/fal-guide/m130/): summary of the
+  heaviest exam topic.
+- [Exam registration steps](https://azoz778.github.io/fal-guide/tasjil/): how to register.
+
+## Official sources (authoritative, not affiliated with this site)
+- Real Estate General Authority (REGA): https://rega.gov.sa
+- Saudi Real Estate Institute (SREI): https://www.srei.sa
+- SREI training platform: https://srei.futurex.sa
+
+## Paid companion (optional)
+- Full study pack — guide + 100 explained original questions:
+  https://sukoonink.gumroad.com/l/ihiuvi (US$13)
+- Free 20-question PDF sample: https://sukoonink.gumroad.com/l/bupimw
+
+Last updated: 2026-08-25
